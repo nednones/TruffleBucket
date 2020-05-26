@@ -4,6 +4,7 @@
       <mapping ext="pyc" type="PLAIN_TEXT" />
       <mapping pattern="Assume-Role" type="Python" />
       <mapping pattern="testEvan" type="Python" />
+      <mapping pattern="MetaDataObject" type="yarn.lock" />
     </extensionMap>
   </component>
 </application>
