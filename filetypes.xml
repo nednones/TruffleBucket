@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="pyc" type="PLAIN_TEXT" />
-      <mapping ext="robot" type="PLAIN_TEXT" />
       <mapping pattern="Assume-Role" type="Python" />
       <mapping pattern="testEvan" type="Python" />
       <mapping pattern="MetaDataObject" type="yarn.lock" />
